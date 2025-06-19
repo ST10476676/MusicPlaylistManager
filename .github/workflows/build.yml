@@ -1,7 +1,7 @@
 yaml
-name: Build APK
+name:Build APK
 
-on: [push]
+on:[push]
 
 jobs:
   build:
